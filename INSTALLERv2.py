@@ -55,7 +55,7 @@ if pilih == "1":
         time.sleep(1)
 elif pilih == "2":
         print "[+] Sedang mengginstall [+]"
-        os.system ('git clone https://github.com/B4N954N2-ID/VIRU>
+        os.system ('git clone https://github.com/B4N954N2-ID/VIRUS')
         print "[+]Selesai menginstall[+]"
 elif pilih == "3":
         print "[+] Sedang mengginstall [+]"
@@ -63,9 +63,9 @@ elif pilih == "3":
         print "[+] Selesai mengginstall[+]"
 elif pilih == "4":
         print "[+] Sedang mengginstall[+]"
-        os.system ('git clone https://github.com/ZK1Hacker/TORJAN>
+        os.system ('git clone https://github.com/ZK1Hacker/TORJAN')
         print "[+] Selesai mengginstall[+]"
 elif pilih == "5":
         print "[+] Sedang mengginstall [+]"
-        os.system ('git clone https://github.com/evait-security/w>
+        os.system ('git clone https://github.com/evait-security/weeman')
         print "[+] Selesai mengginstall [+]"
