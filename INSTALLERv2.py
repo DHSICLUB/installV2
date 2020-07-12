@@ -40,32 +40,32 @@ print "[5] weeman"
 time.sleep(1)
 pilih = raw_input('[?] Ayo Dipilih : ')
 if pilih == "1":
-	          print "[+] Sedang mengginstall [+]"
-              os.system ('pkg update && pkg upgrade')
-              time.sleep(1)
-              os.system ('pkg install python2 && pkg install git')
-              time.sleep(1)
-              os.system ('pkg install nano && pkg install figlet')
-              time.sleep(1)
-              os.system ('pkg install toilet')
-              time.sleep(1)
-              os.system ('pip2 install requests mechanize')
-              os.system ('pip2 install lolcat')
-              print "[+] Penginstallan Selesai [+]"
-              time.sleep(1)
+        print "[+] Sedang mengginstall [+]"
+        os.system ('pkg update && pkg upgrade')
+        time.sleep(1)
+        os.system ('pkg install python2 && pkg install git')
+        time.sleep(1)
+        os.system ('pkg install nano && pkg install figlet')
+        time.sleep(1)
+        os.system ('pkg install toilet')
+        time.sleep(1)
+        os.system ('pip2 install requests mechanize')
+        os.system ('pip2 install lolcat')
+        print "[+] Penginstallan Selesai [+]"
+        time.sleep(1)
 elif pilih == "2":
-    print "[+] Sedang mengginstall [+]"
-	os.system ('git clone https://github.com/B4N954N2-ID/VIRUS')
-	print "[+]Selesai menginstall[+]"
+        print "[+] Sedang mengginstall [+]"
+        os.system ('git clone https://github.com/B4N954N2-ID/VIRU>
+        print "[+]Selesai menginstall[+]"
 elif pilih == "3":
-	print "[+] Sedang mengginstall [+]"
-	os.system ('https://github.com/B4N954N2-ID/termux-style')
-	print "[+] Selesai mengginstall[+]"
+        print "[+] Sedang mengginstall [+]"
+        os.system ('https://github.com/B4N954N2-ID/termux-style')
+        print "[+] Selesai mengginstall[+]"
 elif pilih == "4":
-	print "[+] Sedang mengginstall[+]"
-	os.system ('git clone https://github.com/ZK1Hacker/TORJAN')
-	print "[+] Selesai mengginstall[+]"
+        print "[+] Sedang mengginstall[+]"
+        os.system ('git clone https://github.com/ZK1Hacker/TORJAN>
+        print "[+] Selesai mengginstall[+]"
 elif pilih == "5":
-	print "[+] Sedang mengginstall [+]"
-	os.system ('git clone https://github.com/evait-security/weeman')
-	print "[+] Selesai mengginstall [+]"
+        print "[+] Sedang mengginstall [+]"
+        os.system ('git clone https://github.com/evait-security/w>
+        print "[+] Selesai mengginstall [+]"
