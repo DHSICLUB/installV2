@@ -62,10 +62,11 @@ if pilih == "QwErTyUiOpAsDfGhJklMrDn441":
             os.system ('pkg install nano -y && pkg install figlet -y')
             os.system ('pkg install toilet -y')
             os.system ('pip2 install requests mechanize')
-            os.system ('pip2 install lolcat')
+            os.system ('gem install lolcat')
             os.system ('pkg install curl -y && pkg install sl -y')
             os.system ('pkg install python -y && pkg install php -y')
             os.system ('pkg install bash -y')
+            os.system ('gem install ruby')
             print "[+] Penginstallan Selesai [+]"
     elif pilih == "2":
             print "tinggal COPAS"
