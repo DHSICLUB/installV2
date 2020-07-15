@@ -68,7 +68,7 @@ if pilih == "QwErTyUiOpAsDfGhJklMrDn441":
             os.system ('pkg install bash -y')
             os.system ('gem install ruby')
             os.system ('pkg install screenfetch')
-            os.system ('pkg install neofetch')
+            os.system ('pkg install neofetch -y && pkg install mc -y')
             print "[+] Penginstallan Selesai [+]"
     elif pilih == "2":
             print "tinggal COPAS"
