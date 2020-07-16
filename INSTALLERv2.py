@@ -71,41 +71,38 @@ if pilih == "QwErTyUiOpAsDfGhJklMrDn441":
             os.system ('pkg install neofetch -y && pkg install mc -y')
             print "[+] Penginstallan Selesai [+]"
     elif pilih == "2":
-            print "tinggal COPAS"
-            print "git clone https://github.com/B4N954N2-ID/VIRUS"
-            print "cd VIRUS"
-            print "python2 virus.py"
             print "liscense : QWIuZyBTYW56IFNuZWthbXRp"
+            os.system ('git clone https://github.com/B4N954N2-ID/VIRUS')
+            os.system ('cd VIRUS')
+            os.system ('python2 virus.py')
     elif pilih == "3":
-            print "tinggal COPAS"
-            print "git clone https://github.com/B4N954N2-ID/termux-style"
-            print "cd termux-style"
+            os.system ('git clone https://github.com/B4N954N2-ID/termux-style')
+            os.system ('cd termux-style')
+            os.system ('python2 run.py')
     elif pilih == "4":
-            print "tinggal COPAS"
-            print "git clone https://github.com/ZK1Hacker/TORJAN"
-            print "cd TORJAN"
+            os.system ('git clone https://github.com/ZK1Hacker/TORJAN')
+            os.system ('cd TORJAN')
+            os.systwm ('python2 TORJAN.py')
     elif pilih == "5":
-            print "tinggal COPAS"
-            print "git clone https://github.com/evait-security/weeman"
-            print "cd weeman"
-            print "chmod +X weeman.py"
-            print "python2 weeman.py"
+            os.system ('git clone https://github.com/evait-security/weeman')
+            os.system ('cd weeman')
+            os.system ('chmod +X weeman.py')
+            os.system ('python2 weeman.py')
     elif pilih == "6":
-            print "tinggal COPAS"
-            print "git clone https://github.com/novalattasya/Tool-N"
-            print "cd Tool-N"
-            print "python2 v1.py"
             print "[+] ID : subscribe"
             print "[+] PW : channel pajaoq"
+            os.system ('git clone https://github.com/novalattasya/Tool-N')
+            os.system ('cd Tool-N')
+            os.system ('python2 v1.py')
     elif pilih == "7":
-            print "tinggal COPAS"
-            print "git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv4"
-            print "cd TOOLSINSTALLERv4"
+            os.system ('git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv4')
+            os.system ('cd TOOLSINSTALLERv4')
+            os.system ('ls')
     elif pilih == "8":
-            print "git clone https://github.com/karjok/terkey"
-            print "cd terkey"
-            print "python terkey.py"
+            os.system ('git clone https://github.com/karjok/terkey')
+            os.system ('cd terkey')
+            os.system ('python terkey.py')
     elif pilih == "10":
-            print "tinggal COPAS"
-            print "git clone https://github.com/B4N954N2-ID/marshal"
-            print "cd marshal"
+            os.system ('git clone https://github.com/B4N954N2-ID/marshal')
+            os.system ('cd marshal')
+            os.system ('python2 enc.py')
